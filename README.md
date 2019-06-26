@@ -16,7 +16,7 @@ Obfuse is just a simple bash script that combines different methods into one exe
 Use the powershell method to download files if you already have access on the target machine because certutil might already be blocked and it might trigger an alert.
 
 ## ToDo
-Choose between msfconsole or empire-cli
+Choose between msfconsole or empire-cli__
 Choose different payload delivery methods not only powershell
 
 ## Feedback and issues?
