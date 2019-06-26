@@ -20,4 +20,4 @@ Use the powershell method to download files if you already have access on the ta
 - Choose different payload delivery methods not only powershell
 
 ## Feedback and issues?
-If you have any feedback, anything that you want to see implemented or if you're running into issues using Obfuse, please feel free to file an issue on [https://github.com/spenkk/obfuse/issues](https://github.com/spenkk/issues)
+If you have any feedback, anything that you want to see implemented or if you're running into issues using Obfuse, please feel free to file an issue on [https://github.com/spenkk/obfuse/issues](https://github.com/spenkk/obfuse/issues)
